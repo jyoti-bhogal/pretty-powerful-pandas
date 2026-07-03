@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python-envs.defaultPackageManager": "ms-python.python:pip",
+    "python.terminal.activateEnvInCurrentTerminal": false,
+    "python.defaultInterpreterPath":  "/Users/jyotibhogal/Documents/GitHub/pretty_powerful_pandas/venv-ppp/venv-ppp/bin/python",
+    "terminal.integrated.enablePersistentSessions": false
+
+}
